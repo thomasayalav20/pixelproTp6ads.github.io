@@ -1,0 +1,1 @@
+<?php // Compatibilidad con el TP4 anterior: la navegación se renderiza desde header.php. ?>

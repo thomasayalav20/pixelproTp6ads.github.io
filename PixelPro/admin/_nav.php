@@ -1,0 +1,1 @@
+<nav class="admin-tabs" aria-label="Administración"><a href="index.php">◈ Juegos</a><a href="crear.php">＋ Nuevo juego</a><a href="categorias.php">▤ Categorías</a><a href="../panel.php">Mi cuenta ↗</a><a href="../index.php">Ver sitio ↗</a></nav>

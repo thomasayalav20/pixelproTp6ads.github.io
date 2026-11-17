@@ -1,0 +1,3 @@
+</main>
+<footer class="footer"><div><a class="brand footer-brand" href="<?=e(url_local('index.php'))?>"><span class="brand-mark">P.</span> PIXEL<span class="brand-accent">PRO</span></a><p>Comunidad, cultura y novedades del mundo gaming.</p></div><div><strong>Explorar</strong><a href="<?=e(url_local('blog.php'))?>">Blog</a><a href="<?=e(url_local('noticias.php'))?>">Noticias</a><a href="<?=e(url_local('preguntas.php'))?>">Preguntas frecuentes</a></div><div><strong>Comunidad</strong><a href="<?=e(url_local('contactos.php'))?>">Contacto</a><a href="<?=e(url_local('deseas unirte.php'))?>">Unirse</a><span class="footer-clock" id="reloj"></span></div></footer>
+</body></html>

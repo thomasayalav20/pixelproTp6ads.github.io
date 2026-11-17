@@ -1,0 +1,3 @@
+<?php $titulo_pagina='Perfil de jugador'; require __DIR__.'/includes/header.php';?>
+<section class="page-title reveal"><span class="eyebrow">MI ESPACIO</span><h1>Perfil de jugador</h1><p>Gestioná tu información personal desde la cuenta.</p></section>
+<section class="info-grid reveal"><article class="panel-card"><span class="eyebrow">PIXELPRO</span><h2>Cuenta y acceso</h2><p>Registrate o iniciá sesión para consultar tu perfil.</p></article><article class="panel-card"><span class="eyebrow">PIXELPRO</span><h2>Panel personal</h2><p>Accedé a tus datos y cerrá sesión cuando termines.</p></article></section><?php require __DIR__ . "/includes/footer.php"; ?>

@@ -1,0 +1,8 @@
+PIXELPRO TP4-TP8
+1. Copiar carpeta PixelPro a C:\xampp\htdocs\PixelPro
+2. Iniciar Apache y MySQL.
+3. Importar database/schema.sql en phpMyAdmin.
+4. Copiar config/.env.example a config/.env y configurar MySQL.
+5. Abrir http://localhost/PixelPro/
+6. Registrarse, iniciar sesión y probar admin con cuenta de rol admin.
+Ver README.md para todos los pasos y capturas.

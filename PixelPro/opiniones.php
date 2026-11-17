@@ -1,0 +1,3 @@
+<?php $titulo_pagina='Reseñas'; require __DIR__.'/includes/header.php';?>
+<section class="page-title reveal"><span class="eyebrow">LA COMUNIDAD OPINA</span><h1>Experiencias de juego</h1><p>Reseñas y opiniones publicadas como contenido editorial.</p></section>
+<section class="info-grid reveal"><article class="panel-card"><span class="eyebrow">PIXELPRO</span><h2>Una mirada personal</h2><p>Hay juegos que sorprenden por su jugabilidad directa, incluso con equipos modestos.</p></article><article class="panel-card"><span class="eyebrow">PIXELPRO</span><h2>Compartí tu opinión</h2><p>Enviá tus ideas desde Contacto.</p></article></section><?php require __DIR__ . "/includes/footer.php"; ?>

@@ -1,0 +1,3 @@
+<?php $titulo_pagina='Ubicación'; require __DIR__.'/includes/header.php';?>
+<section class="page-title reveal"><span class="eyebrow">ACERCA DEL PROYECTO</span><h1>Nuestra comunidad</h1><p>PixelPro funciona como proyecto web de demostración.</p></section>
+<section class="info-grid reveal"><article class="panel-card"><span class="eyebrow">PIXELPRO</span><h2>Ubicación</h2><p>No hay una sucursal física verificada para publicar aquí.</p></article><article class="panel-card"><span class="eyebrow">PIXELPRO</span><h2>Contacto</h2><p>Usá el formulario del sitio para escribirnos.</p></article></section><?php require __DIR__ . "/includes/footer.php"; ?>

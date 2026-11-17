@@ -1,0 +1,3 @@
+<?php $titulo_pagina='Identidad'; require __DIR__.'/includes/header.php';?>
+<section class="page-title reveal"><span class="eyebrow">NUESTRA IDENTIDAD</span><h1>PixelPro</h1><p>La identidad de nuestra comunidad gamer.</p></section>
+<section class="info-grid reveal"><article class="panel-card"><span class="eyebrow">PIXELPRO</span><h2>PixelPro</h2><p>Un sitio de noticias, contenidos y comunidad de videojuegos.</p></article></section><?php require __DIR__ . "/includes/footer.php"; ?>
